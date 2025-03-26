@@ -1,0 +1,6 @@
+@GiftCardAPI_HostAddress = http://localhost:5228
+
+GET {{GiftCardAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
