@@ -35,7 +35,7 @@ dotnet run
 ## 📬 Postman Collection
 
 You can test the API using the provided Postman collection:  
-📥 [GiftCardAPI_PostmanCollection.json](./GiftCardAPI_PostmanCollection.json)
+📥 [GiftCardAPI_PostmanCollection_FULL_FLOW.json](./GiftCardAPI_PostmanCollection_FULL_FLOW.json)
 
 Import it into Postman and make requests like:
 - Create/Get Users
